@@ -1,0 +1,7 @@
+%{
+  "jason": {:hex, :jason, "1.4.0", "e855647bc964a44e2f67df589ccf49105ae039d4179db7f6271dfd3843dc27e6", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "79a3791085b2a0f743ca04cec0f7be26443738779d09302e01318f97bdb82121"},
+  "perseus": {:hex, :perseus, "0.1.1", "d7530cfea8bd983bbde1a249db12d157a8967e5b247447e42fb2ccd91c9e9cfb", [:mix], [], "hexpm", "579eec1ce663c2a0383a612ef24c67ab9cc3268875dfdcdae759898cf15497e6"},
+  "rustler": {:hex, :rustler, "0.26.0", "06a2773d453ee3e9109efda643cf2ae633dedea709e2455ac42b83637c9249bf", [:mix], [{:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: false]}, {:toml, "~> 0.6", [hex: :toml, repo: "hexpm", optional: false]}], "hexpm", "42961e9d2083d004d5a53e111ad1f0c347efd9a05cb2eb2ffa1d037cdc74db91"},
+  "toml": {:hex, :toml, "0.6.2", "38f445df384a17e5d382befe30e3489112a48d3ba4c459e543f748c2f25dd4d1", [:mix], [], "hexpm", "d013e45126d74c0c26a38d31f5e8e9b83ea19fc752470feb9a86071ca5a672fa"},
+  "y4m": {:hex, :y4m, "0.3.1", "221f3cc6e45e79e723e3f299f4cc4c6b9a9a6d818f0c7fa91946026ea3a0a174", [:mix], [], "hexpm", "09b3368a16bec031e9ecb67d8a4327a165901f01c5972a605a30af81e734b439"},
+}
